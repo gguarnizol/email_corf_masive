@@ -6,7 +6,7 @@ library(blastula)
 library(glue)
 library(kableExtra)
 
-Sys.setenv("SMTP_PASSWORD"="clapalico2007")      # :Pass correo
+Sys.setenv("SMTP_PASSWORD"="111111111111111")      # :Pass correo
 
 footer_a = md(
   c(
